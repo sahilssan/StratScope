@@ -1,0 +1,6 @@
+yfinance
+matplotlib
+numpy
+pandas
+streamlit
+schedule
