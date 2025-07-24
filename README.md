@@ -23,7 +23,6 @@ StratScope is a Python-based quantitative strategy backtester with a live Stream
 ---
 
 ## 📸 Preview
-*(Insert a screenshot of your app here)*
 
 ---
 
